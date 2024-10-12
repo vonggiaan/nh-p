@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="vi"
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"
+		<title> có cái dái tao này </title>
+	</head>
+	<body>
+		<h1> bú l tao con chó </h1>
+		<p>Đây là đoạn văn đầu tiên của tôi.</p>
+		<p>Đây là đoạn văn thứ hai, tiếp theo đoạn văn đầu tiên.</p>
+		<a href="https://www.youtube.com/watch?v=WDnZrYpcDjw" target="_blank"> truy cập youtube.com</a> 
+		<p><img src="https://hoathinh3d.video/wp-content/uploads/2024/07/nhat-niem-vinh-hang-phan-3.jpg" width="500" height="320"></p>
+
+		<script>
+			console.log("suong qua anh oi")
+		</script>
+	</body>
+</html>
